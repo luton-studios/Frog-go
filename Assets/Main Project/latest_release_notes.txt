@@ -1,0 +1,8 @@
++ = added
+* = changed/fixed
+- = removed
+
+vv (version 1.1.4) vv   <---- don't copy this line into Play Console.
+* Leaderboard values should now reflect their proper time frames.
+* Made 'Giant Leap' and 'Combo Breaker' achievements much easier to attain.
+* Fixed bug where leaderboard would sometimes not load or become unresponsive.
